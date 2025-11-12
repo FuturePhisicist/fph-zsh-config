@@ -7,6 +7,8 @@ A clone of Manjaro's but with better scripts
 ## Installation
 
 ```bash
+sudo pacman -S zsh
+
 bash install_zsh.bash 
 ```
 
